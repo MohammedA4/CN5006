@@ -1,0 +1,23 @@
+{
+    "Student1" : {
+    "name" : "Francis",
+    "Age" : "33",
+    "Qualification" : "BSC",
+    "Email": "pope@grome.com", 
+    "id": 1
+    },
+    "Student2" :
+    { "name" : "Paul",
+    "Age" : "69",
+    "Qualification" : "HNC", 
+    "Email": "bombo@dacongo.com", 
+    "id": 2
+    },
+    "Student3" :
+    { "name" : "AntDBuck",
+    "Age" : "28",
+    "Qualification" : "PhD", 
+    "Email": "triangle@lmc.com", 
+    "id": 3
+    }
+}
